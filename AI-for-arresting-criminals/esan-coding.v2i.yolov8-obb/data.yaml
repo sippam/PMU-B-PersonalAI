@@ -1,0 +1,9 @@
+train: D:\Work\Project\esan-coding-2024\AI-for-arresting-criminals\esan-coding.v2i.yolov8-obb\train\images
+val: D:\Work\Project\esan-coding-2024\AI-for-arresting-criminals\esan-coding.v2i.yolov8-obb\valid\images
+test: D:\Work\Project\esan-coding-2024\AI-for-arresting-criminals\esan-coding.v2i.yolov8-obb\test\images
+
+names: 
+  0: bus
+  1: car
+  2: pedestrian
+  3: taxi
